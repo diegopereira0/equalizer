@@ -1,0 +1,16 @@
+.heading-1 {
+  font: 700 5.5rem/5.5rem "IBM Plex Sans", sans-serif;
+  letter-spacing: -1px;
+}
+
+.heading-2 {
+  font: 700 2.5rem/3.25rem "IBM Plex Sans", sans-serif;
+}
+
+.body-1 {
+  font: 400 1.25rem/2.125rem "IBM Plex Sans", sans-serif;
+}
+
+.body-2 {
+  font: 400 1rem/1.625rem "IBM Plex Sans", sans-serif;
+}

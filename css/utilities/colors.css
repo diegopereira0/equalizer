@@ -1,0 +1,27 @@
+:root {
+  --neutral-color-1: #fcfaf9;
+  --neutral-color-2: #191826;
+  --accent-color-1: #66e2dc;
+  --accent-color-2: #fa7453;
+  --accent-color-3: #ffb964;
+}
+
+.neutral-color-1 {
+  color: var(--neutral-color-1);
+}
+
+.neutral-color-2 {
+  color: var(--neutral-color-2);
+}
+
+.accent-color-1 {
+  color: var(--accent-color-1);
+}
+
+.accent-color-2 {
+  color: var(--accent-color-2);
+}
+
+.accent-color-3 {
+  color: var(--accent-color-3);
+}

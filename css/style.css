@@ -1,0 +1,11 @@
+/* UTILITES */
+@import "../css/utilities/components.css";
+@import "../css/utilities/typograph.css";
+@import "../css/utilities/colors.css";
+
+/* GLOBAL */
+@import "../css/global/global.css";
+@import "../css/global/header.css";
+@import "../css/global/footer.css";
+
+/* HOME */
