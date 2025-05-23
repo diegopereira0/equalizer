@@ -1,0 +1,38 @@
+.header {
+  padding-top: 3.875rem;
+  padding-bottom: 7.75rem;
+}
+
+.header::after {
+  display: block;
+  content: "";
+  background: url("../../assets/bg-pattern-1.svg") no-repeat;
+  background-size: cover;
+  width: 312px;
+  height: 468px;
+  position: absolute;
+  z-index: -1;
+  right: 0;
+  top: -40px;
+}
+
+@media (max-width: 768px) {
+  .header {
+    padding-bottom: 5.5rem;
+  }
+
+  .header::after {
+    right: -40px;
+  }
+}
+
+@media (max-width: 430px) {
+  .header {
+    padding-top: 2.5rem;
+    padding-bottom: 4rem;
+  }
+
+  .header::after {
+    display: none;
+  }
+}

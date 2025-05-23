@@ -9,3 +9,5 @@
 @import "../css/global/footer.css";
 
 /* HOME */
+@import "../css/home/hero.css";
+@import "../css/home/premium.css";

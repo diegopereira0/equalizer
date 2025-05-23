@@ -14,3 +14,25 @@
 .body-2 {
   font: 400 1rem/1.625rem "IBM Plex Sans", sans-serif;
 }
+
+@media (max-width: 768px) {
+  .heading-1 {
+    font: 700 4rem/4rem "IBM Plex Sans", sans-serif;
+    letter-spacing: -0.73px;
+  }
+
+  .heading-2 {
+    font: 700 2rem/2.5rem "IBM Plex Sans", sans-serif;
+  }
+
+  .body-1 {
+    font: 400 1.125rem/1.75rem "IBM Plex Sans", sans-serif;
+  }
+}
+
+@media (max-width: 400px) {
+  .heading-1 {
+    font: 700 2.5rem/3rem "IBM Plex Sans", sans-serif;
+    letter-spacing: -0.45px;
+  }
+}
