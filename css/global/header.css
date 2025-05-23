@@ -8,12 +8,13 @@
   content: "";
   background: url("../../assets/bg-pattern-1.svg") no-repeat;
   background-size: cover;
+
   width: 312px;
   height: 468px;
   position: absolute;
-  z-index: -1;
   right: 0;
   top: -40px;
+  z-index: -1;
 }
 
 @media (max-width: 768px) {
@@ -22,7 +23,7 @@
   }
 
   .header::after {
-    right: -40px;
+    background-position: top right -40px;
   }
 }
 

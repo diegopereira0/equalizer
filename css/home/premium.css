@@ -1,0 +1,9 @@
+.premium {
+  background-color: var(--neutral-color-2);
+  display: grid;
+  grid-template-columns: 6fr 6fr;
+}
+
+.premium-content {
+  background-color: var(--accent-color-2);
+}

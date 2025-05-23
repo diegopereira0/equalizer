@@ -30,7 +30,7 @@
   }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 460px) {
   .heading-1 {
     font: 700 2.5rem/3rem "IBM Plex Sans", sans-serif;
     letter-spacing: -0.45px;
